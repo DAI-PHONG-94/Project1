@@ -1,4 +1,4 @@
-﻿namespace Example.Repository
+﻿namespace WebLibary.Repository
 {
     public interface IRepository<T>
     {
