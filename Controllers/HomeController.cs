@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ASP.Net.Models;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using WebLibary.Models;
 
-namespace WebLibary.Controllers
+namespace ASP.Net.Controllers
 {
     public class HomeController : Controller
     {
